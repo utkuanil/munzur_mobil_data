@@ -1,1 +1,32 @@
-
+[
+  {
+    "title": "İdari Birimler",
+    "items": [
+      {
+        "title": "Öğrenci İşleri Daire Başkanlığı",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Personel Daire Başkanlığı",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Sağlık, Kültür ve Spor Daire Başkanlığı",
+        "url": "https://munzur.edu.tr"
+      }
+    ]
+  },
+  {
+    "title": "Sık Kullanılanlar",
+    "items": [
+      {
+        "title": "Yemek Listesi",
+        "url": "https://www.munzur.edu.tr/birimler/idari/sks/Pages/yemeklistesi.aspx"
+      },
+      {
+        "title": "Kütüphane",
+        "url": "https://munzur.edu.tr"
+      }
+    ]
+  }
+]
