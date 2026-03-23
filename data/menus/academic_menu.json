@@ -16,6 +16,70 @@
     "title": "Fakülteler",
     "items": [
       {
+        "title": "Edebiyat Fakültesi",
+        "children": [
+          {
+            "title": "Sosyoloji",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Tarih",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Türk Dili ve Edebiyatı",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi",
+        "children": [
+          {
+            "title": "Gastronomi ve Mutfak Sanatları",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "İç Mimarlık",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "İktisadi ve İdari Bilimler Fakültesi",
+        "children": [
+          {
+            "title": "İktisat",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "İşletme",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Siyaset Bilimi ve Kamu Yönetimi",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "İletişim Fakültesi",
+        "children": [
+          {
+            "title": "Gazetecilik",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Halkla İlişkiler ve Tanıtım",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Radyo, Televizyon ve Sinema",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
         "title": "Mühendislik Fakültesi",
         "children": [
           {
@@ -33,18 +97,44 @@
         ]
       },
       {
-        "title": "Edebiyat Fakültesi",
+        "title": "Sağlık Bilimleri Fakültesi",
         "children": [
           {
-            "title": "Tarih",
+            "title": "Çocuk Gelişimi",
             "url": "https://munzur.edu.tr"
           },
           {
-            "title": "Sosyoloji",
+            "title": "Hemşirelik",
             "url": "https://munzur.edu.tr"
           },
           {
-            "title": "Türk Dili ve Edebiyatı",
+            "title": "Sosyal Hizmet",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "Spor Bilimleri Fakültesi",
+        "children": [
+          {
+            "title": "Antrenörlük Eğitimi",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Beden Eğitimi ve Spor Öğretmenliği",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Spor Yöneticiliği",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "Su Ürünleri Fakültesi",
+        "children": [
+          {
+            "title": "Su Ürünleri Mühendisliği",
             "url": "https://munzur.edu.tr"
           }
         ]
@@ -64,8 +154,153 @@
           {
             "title": "Elektrik",
             "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "İnşaat Teknolojisi",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "İşletme Yönetimi",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Makine",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Muhasebe ve Vergi Uygulamaları",
+            "url": "https://munzur.edu.tr"
           }
         ]
+      },
+      {
+        "title": "Çemişgezek Meslek Yüksekokulu",
+        "children": [
+          {
+            "title": "Bankacılık ve Sigortacılık",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Büro Yönetimi ve Yönetici Asistanlığı",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "Pertek Sakine Genç Meslek Yüksekokulu",
+        "children": [
+          {
+            "title": "Aşçılık",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Çocuk Gelişimi",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Sosyal Hizmetler",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Turizm ve Otel İşletmeciliği",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "Sağlık Hizmetleri Meslek Yüksekokulu",
+        "children": [
+          {
+            "title": "İlk ve Acil Yardım",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Tıbbi Dokümantasyon ve Sekreterlik",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Tıbbi Laboratuvar Teknikleri",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Yaşlı Bakımı",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rektörlüğe Bağlı Bölümler",
+    "items": [
+      {
+        "title": "Atatürk İlkeleri ve İnkılap Tarihi Bölümü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Beden Eğitimi ve Spor Bölümü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Enformatik Bölümü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Güzel Sanatlar Bölümü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Türk Dili Bölümü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Yabancı Diller Bölümü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Çeviri ve Redaksiyon Birimi Koordinatörlüğü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Afet ve Acil Durum Arama Kurtarma Birimi (MUAK)",
+        "url": "https://munzur.edu.tr"
+      }
+    ]
+  },
+  {
+    "title": "Araştırma Merkezleri",
+    "items": [
+      {
+        "title": "MUTTO UYGAR",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Nadir Toprak Elementleri Uygulama ve Araştırma Merkezi",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Uygulama ve Araştırma Merkezi",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Uzaktan Eğitim Uygulama ve Araştırma Merkezi",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Türkçe Öğretimi Uygulama ve Araştırma Merkezi (TÖMER)",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Alevilik Uyg. ve Arş. Merkezi",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "İnsani ve Sosyal Sorunlar Uyg. ve Arş. Merkezi",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Deney Hayvanları Uyg. ve Arş. Merkezi",
+        "url": "https://munzur.edu.tr"
       }
     ]
   }
