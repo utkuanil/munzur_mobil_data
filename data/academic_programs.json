@@ -1,1 +1,22 @@
-
+[
+  {
+    "educationLevel": "Lisans",
+    "academicUnit": "Mühendislik Fakültesi",
+    "department": "Bilgisayar Mühendisliği",
+    "courseSchedulePdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bilgisayar_muh_ders.pdf",
+    "midtermPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bilgisayar_muh_vize.pdf",
+    "finalPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bilgisayar_muh_final.pdf",
+    "makeupPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bilgisayar_muh_butunleme.pdf",
+    "updatedAt": "2026-03-23"
+  },
+  {
+    "educationLevel": "Ön Lisans",
+    "academicUnit": "Tunceli Meslek Yüksekokulu",
+    "department": "Bilgisayar Programcılığı",
+    "courseSchedulePdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bil_prog_ders.pdf",
+    "midtermPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bil_prog_vize.pdf",
+    "finalPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bil_prog_final.pdf",
+    "makeupPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bil_prog_butunleme.pdf",
+    "updatedAt": "2026-03-23"
+  }
+]
