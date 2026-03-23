@@ -1,1 +1,72 @@
-
+[
+  {
+    "title": "Enstitü",
+    "items": [
+      {
+        "title": "Lisansüstü Eğitim Enstitüsü",
+        "url": "https://munzur.edu.tr"
+      },
+      {
+        "title": "Stratejik Hammaddeler ve İleri Teknoloji Uygulamaları İhtisaslaşma Koordinatörlüğü",
+        "url": "https://munzur.edu.tr"
+      }
+    ]
+  },
+  {
+    "title": "Fakülteler",
+    "items": [
+      {
+        "title": "Mühendislik Fakültesi",
+        "children": [
+          {
+            "title": "Bilgisayar Mühendisliği",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "İnşaat Mühendisliği",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Makine Mühendisliği",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      },
+      {
+        "title": "Edebiyat Fakültesi",
+        "children": [
+          {
+            "title": "Tarih",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Sosyoloji",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Türk Dili ve Edebiyatı",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Meslek Yüksekokulları",
+    "items": [
+      {
+        "title": "Tunceli Meslek Yüksekokulu",
+        "children": [
+          {
+            "title": "Bilgisayar Programcılığı",
+            "url": "https://munzur.edu.tr"
+          },
+          {
+            "title": "Elektrik",
+            "url": "https://munzur.edu.tr"
+          }
+        ]
+      }
+    ]
+  }
+]
