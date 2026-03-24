@@ -3,40 +3,43 @@
     {
       "title": "GENEL",
       "items": [
-        { "title": "Misyon-Vizyon", "url": "https://munzur.edu.tr/misyon" },
-        { "title": "Yerleşkeler", "url": "https://munzur.edu.tr/yerleskeler" },
-        { "title": "Basında Munzur Üniversitesi", "url": "https://munzur.edu.tr/basinda" },
-        { "title": "Bilgi Edinme", "url": "https://munzur.edu.tr/bilgi-edinme" },
-        { "title": "Logo Kullanım Kılavuzu", "url": "https://munzur.edu.tr/logo" },
-        { "title": "Tunceli", "url": "https://munzur.edu.tr/tunceli" }
+        { "title": "Misyon-Vizyon", "url": "https://www.munzur.edu.tr/misyon-vizyon.aspx" },
+        { "title": "Yerleşkeler", "url": "https://www.munzur.edu.tr/yerleske.aspx" },
+        { "title": "Basında Munzur Üniversitesi", "url": "https://www.munzur.edu.tr/basindabiz.aspx" },
+        { "title": "Bilgi Edinme", "url": "https://www.munzur.edu.tr/bilgiedinme.aspx" },
+        { "title": "Logo Kullanım Kılavuzu", "url": "https://www.munzur.edu.tr/lkk.aspx" },
+        { "title": "Tunceli", "url": "https://www.tunceli.gov.tr/" }
       ]
     },
     {
       "title": "YÖNETİM",
       "items": [
-        { "title": "Rektör", "url": "https://munzur.edu.tr/rektor" },
-        { "title": "Rektörümüzün Mesajı", "url": "https://munzur.edu.tr/rektor-mesaj" },
-        { "title": "Rektör Yardımcıları", "url": "https://munzur.edu.tr/rektor-yardimcilari" },
-        { "title": "Senato", "url": "https://munzur.edu.tr/senato" },
-        { "title": "Yönetim Kurulu", "url": "https://munzur.edu.tr/yonetim-kurulu" },
-        { "title": "Genel Sekreterlik", "url": "https://munzur.edu.tr/genel-sekreterlik" }
+        { "title": "Rektör", "url": "https://www.munzur.edu.tr/rektor.aspx" },
+        { "title": "Rektörümüzün Mesajı", "url": "https://www.munzur.edu.tr/rektorumuzunmesaji.aspx" },
+        { "title": "Rektör Yardımcıları", "url": "https://www.munzur.edu.tr/rektoryard.aspx" },
+        { "title": "Senato", "url": "https://www.munzur.edu.tr/senato.aspx" },
+        { "title": "Yönetim Kurulu", "url": "https://www.munzur.edu.tr/yonkur.aspx" },
+        { "title": "Genel Sekreterlik", "url": "https://www.munzur.edu.tr/birimler/idari/sekreter/Pages/Default.aspx" }
       ]
     },
     {
       "title": "ÖĞRENCİ",
       "items": [
-        { "title": "AKTS Kredi Sistemi", "url": "https://munzur.edu.tr/akts" },
-        { "title": "Sıkça Sorulan Sorular", "url": "https://munzur.edu.tr/sss" },
-        { "title": "Staj", "url": "https://munzur.edu.tr/staj" },
-        { "title": "Öğrenci Kulüpleri", "url": "https://munzur.edu.tr/kulupler" }
+        { "title": "AKTS Kredi Sistemi", "url": "https://www.munzur.edu.tr/akts.aspx" },
+        { "title": "Sıkça Sorulan Sorular", "url": "https://www.munzur.edu.tr/sss.aspx" },
+        { "title": "Staj", "url": "https://www.munzur.edu.tr/staj.aspx" },
+        { "title": "Öğrenci Kulüpleri", "url": "https://www.munzur.edu.tr/birimler/idari/sks/Pages/kulupler.aspx" }
       ]
     },
     {
       "title": "ARAŞTIRMA",
       "items": [
-        { "title": "MUNİBAP", "url": "https://munzur.edu.tr/munibap" },
-        { "title": "MUTTO UYGAR", "url": "https://munzur.edu.tr/mutto" },
-        { "title": "Araştırma Merkezi", "url": "https://munzur.edu.tr/arastirma-merkezi" }
+        { "title": "MUNİBAP", "url": "https://bap.munzur.edu.tr/" },
+        { "title": "MUTTO UYGAR", "url": "https://www.munzur.edu.tr/birimler/idari/tto/Pages/Default.aspx" },
+        { "title": "Nadir Toprak Elementleri Uygulama ve Araştırma Merkezi", "url": "https://www.munzur.edu.tr/birimler/idari/munteam/Pages/munteam.aspx" }
+        { "title": "Stratejik Hammaddeler ve İleri Teknoloji Uygulamaları İhtisaslaşma Koordinatörlüğü", "url": "https://www.munzur.edu.tr/birimler/idari/shitu/Pages/shitu.aspx" }
+        { "title": "Girişimsel Olmayan Araştırmalar Etik Kurulu", "url": "https://www.munzur.edu.tr/birimler/idari/etik/Pages/Default.aspx" }
+        { "title": "Hayvan Deneyleri Yerel Etik Kurulu", "url": "https://www.munzur.edu.tr/birimler/idari/muhadyek/Pages/Default.aspx" }
       ]
     }
   ]
