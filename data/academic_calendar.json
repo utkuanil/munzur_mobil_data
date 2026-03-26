@@ -1,4 +1,270 @@
 {
+  "year": "2025-2026",
+  "scope": "Üniversitemize Bağlı Fakülteler, Meslek Yüksekokulları",
   "academicCalendarUrl": "https://munzur.edu.tr/2025/Akademktakvim2526.pdf",
-  "updatedAt": "2026-03-23"
+  "events": [
+    {
+      "id": "fall_fee_payment",
+      "term": "Güz",
+      "title": "Güz yarıyılı katkı payı ve II. Öğretim ücretleri ödeme dönemi",
+      "category": "payment",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-22",
+      "allDay": true
+    },
+    {
+      "id": "fall_course_registration",
+      "term": "Güz",
+      "title": "Ders kayıtları",
+      "category": "registration",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-22",
+      "allDay": true
+    },
+    {
+      "id": "fall_classes_start",
+      "term": "Güz",
+      "title": "Derslerin başlaması",
+      "category": "semester_start",
+      "startDate": "2025-09-22",
+      "endDate": "2025-09-22",
+      "allDay": true
+    },
+    {
+      "id": "fall_advisor_approval",
+      "term": "Güz",
+      "title": "Danışmanların ders kayıtlarını onaylaması",
+      "category": "approval",
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-24",
+      "allDay": true
+    },
+    {
+      "id": "fall_add_drop",
+      "term": "Güz",
+      "title": "Ders ekle-sil",
+      "category": "add_drop",
+      "startDate": "2025-09-25",
+      "endDate": "2025-09-30",
+      "allDay": true
+    },
+    {
+      "id": "fall_term_end",
+      "term": "Güz",
+      "title": "Güz Yarıyılı Sonu",
+      "category": "semester_end",
+      "startDate": "2025-12-30",
+      "endDate": "2025-12-30",
+      "allDay": true
+    },
+    {
+      "id": "fall_final_exams",
+      "term": "Güz",
+      "title": "Genel Sınavlar",
+      "category": "final_exam",
+      "startDate": "2026-01-02",
+      "endDate": "2026-01-11",
+      "allDay": true
+    },
+    {
+      "id": "fall_makeup_exams",
+      "term": "Güz",
+      "title": "Bütünleme Sınavı",
+      "category": "makeup_exam",
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-23",
+      "allDay": true
+    },
+    {
+      "id": "fall_graduation_exam",
+      "term": "Güz",
+      "title": "Mezuniyet Sınavı",
+      "category": "graduation_exam",
+      "startDate": "2026-01-27",
+      "endDate": "2026-01-28",
+      "allDay": true
+    },
+    {
+      "id": "spring_fee_payment",
+      "term": "Bahar",
+      "title": "Bahar yarıyılı katkı payı ve II. Öğretim ücretleri ödeme dönemi",
+      "category": "payment",
+      "startDate": "2026-02-03",
+      "endDate": "2026-02-09",
+      "allDay": true
+    },
+    {
+      "id": "spring_course_registration",
+      "term": "Bahar",
+      "title": "Ders kayıtları",
+      "category": "registration",
+      "startDate": "2026-02-03",
+      "endDate": "2026-02-09",
+      "allDay": true
+    },
+    {
+      "id": "spring_classes_start",
+      "term": "Bahar",
+      "title": "Derslerin başlaması",
+      "category": "semester_start",
+      "startDate": "2026-02-09",
+      "endDate": "2026-02-09",
+      "allDay": true
+    },
+    {
+      "id": "spring_advisor_approval",
+      "term": "Bahar",
+      "title": "Danışmanların ders kayıtlarını onaylaması",
+      "category": "approval",
+      "startDate": "2026-02-03",
+      "endDate": "2026-02-10",
+      "allDay": true
+    },
+    {
+      "id": "spring_add_drop",
+      "term": "Bahar",
+      "title": "Ders ekle-sil",
+      "category": "add_drop",
+      "startDate": "2026-02-11",
+      "endDate": "2026-02-17",
+      "allDay": true
+    },
+    {
+      "id": "spring_term_end",
+      "term": "Bahar",
+      "title": "Bahar Yarıyılı Sonu",
+      "category": "semester_end",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-22",
+      "allDay": true
+    },
+    {
+      "id": "spring_final_exams",
+      "term": "Bahar",
+      "title": "Genel Sınavlar",
+      "category": "final_exam",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-11",
+      "allDay": true
+    },
+    {
+      "id": "spring_makeup_exams",
+      "term": "Bahar",
+      "title": "Bütünleme Sınavı",
+      "category": "makeup_exam",
+      "startDate": "2026-06-15",
+      "endDate": "2026-06-21",
+      "allDay": true
+    },
+    {
+      "id": "spring_graduation_exam",
+      "term": "Bahar",
+      "title": "Mezuniyet Sınavı",
+      "category": "graduation_exam",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-25",
+      "allDay": true
+    }
+  ],
+  "holidays": [
+    {
+      "id": "victory_day",
+      "title": "Zafer Bayramı",
+      "category": "official_holiday",
+      "startDate": "2025-08-30",
+      "endDate": "2025-08-30",
+      "allDay": true
+    },
+    {
+      "id": "republic_day",
+      "title": "Cumhuriyet Bayramı",
+      "category": "official_holiday",
+      "startDate": "2025-10-28",
+      "endDate": "2025-10-29",
+      "allDay": true,
+      "note": "28 Ekim yarım gün"
+    },
+    {
+      "id": "new_year",
+      "title": "Yılbaşı Tatili",
+      "category": "official_holiday",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-01",
+      "allDay": true
+    },
+    {
+      "id": "ramadan_feast",
+      "title": "Ramazan Bayramı",
+      "category": "religious_holiday",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-22",
+      "allDay": true,
+      "note": "19 Mart yarım gün"
+    },
+    {
+      "id": "national_sovereignty_day",
+      "title": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "category": "official_holiday",
+      "startDate": "2026-04-23",
+      "endDate": "2026-04-23",
+      "allDay": true
+    },
+    {
+      "id": "labour_day",
+      "title": "Emek ve Dayanışma Günü",
+      "category": "official_holiday",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-01",
+      "allDay": true
+    },
+    {
+      "id": "youth_sports_day",
+      "title": "Atatürk'ü Anma Gençlik ve Spor Bayramı",
+      "category": "official_holiday",
+      "startDate": "2026-05-19",
+      "endDate": "2026-05-19",
+      "allDay": true
+    },
+    {
+      "id": "eid_al_adha",
+      "title": "Kurban Bayramı",
+      "category": "religious_holiday",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-30",
+      "allDay": true,
+      "note": "26 Mayıs yarım gün"
+    },
+    {
+      "id": "democracy_day",
+      "title": "Demokrasi ve Milli Birlik Günü",
+      "category": "official_holiday",
+      "startDate": "2026-07-15",
+      "endDate": "2026-07-15",
+      "allDay": true
+    }
+  ],
+  "notes": [
+    {
+      "id": "fall_missed_courses_compensation",
+      "title": "Güz Dönemi resmi tatillerde yapılamayan dersler",
+      "startDate": "2025-12-29",
+      "endDate": "2025-12-30",
+      "category": "makeup_course",
+      "note": "2025-2026 Güz Dönemi resmi tatillerde yapılamayan dersler bu tarihler arasında yapılacaktır."
+    },
+    {
+      "id": "spring_missed_courses_compensation",
+      "title": "Bahar Dönemi resmi tatillerde yapılamayan dersler",
+      "startDate": "2026-05-18",
+      "endDate": "2026-05-22",
+      "category": "makeup_course",
+      "note": "2025-2026 Bahar Dönemi resmi tatillerde yapılamayan dersler bu tarihler arasında yapılacaktır."
+    },
+    {
+      "id": "unlisted_exam_and_internship_notice",
+      "title": "Takvimde belirtilmeyen sınav ve stajlar",
+      "category": "note",
+      "note": "Akademik takvimde belirtilmeyen sınav ve stajlarla ilgili takvimi belirlemeye akademik birimlerin ilgili kurulları yetkilidir."
+    }
+  ]
 }
