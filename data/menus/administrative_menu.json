@@ -1,59 +1,108 @@
 [
   {
-    "title": "İdari Birimler",
+    "title": "Daire Başkanlıkları",
     "items": [
       {
         "title": "Öğrenci İşleri Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/ogr/Pages/Default.aspx"
       },
       {
         "title": "Personel Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/per/Pages/Default.aspx"
       },
       {
         "title": "Sağlık, Kültür ve Spor Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/sks/Pages/Default.aspx"
       },
       {
         "title": "Yapı İşleri ve Teknik Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/yit/Pages/Default.aspx"
       },
       {
         "title": "İdari ve Mali İşler Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/imid/Pages/Default.aspx"
       },
       {
         "title": "Kütüphane ve Dokümantasyon Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/kdd/Pages/Default.aspx"
       },
       {
         "title": "Bilgi İşlem Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/bid/Pages/Default.aspx"
       },
       {
         "title": "Strateji Geliştirme Daire Başkanlığı",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/sgd/Pages/Default.aspx"
       }
     ]
   },
   {
-    "title": "Sık Kullanılanlar",
+    "title": "Koordinatörlükler",
     "items": [
       {
-        "title": "Yemek Listesi",
-        "url": "https://www.munzur.edu.tr/birimler/idari/sks/Pages/yemeklistesi.aspx"
+        "title": "Öğrenci Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/ogrencikoor/Pages/Default.aspx"
       },
       {
-        "title": "Kütüphane",
-        "url": "https://munzur.edu.tr"
+        "title": "Milli Teknolojiler Atölyesi",
+        "url": "https://www.munzur.edu.tr/birimler/idari/mta/Pages/Default.aspx"
       },
       {
-        "title": "Sağlık, Kültür ve Spor",
-        "url": "https://munzur.edu.tr"
+        "title": "MEYOK Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/meyok/Pages/Default.aspx"
       },
       {
-        "title": "Öğrenci İşleri",
-        "url": "https://munzur.edu.tr"
+        "title": "MUTAÜ Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/muta%C3%BC/Pages/Default.aspx"
+      },
+      {
+        "title": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/isg/Pages/Default.aspx"
+      },
+      {
+        "title": "Kalite",
+        "url": "https://www.munzur.edu.tr/birimler/idari/kalite/Pages/Default.aspx"
+      },
+      {
+        "title": "MUNİBAP",
+        "url": "https://bap.munzur.edu.tr/"
+      },
+      {
+        "title": "Stratejik Hammaddeler ve İleri Teknoloji Uygulamaları",
+        "url": "https://www.munzur.edu.tr/birimler/idari/shitu/Pages/shitu.aspx"
+      },
+      {
+        "title": "İhtisaslaşma Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/shitu/Pages/shitu.aspx"
+      },
+      {
+        "title": "Uluslararası İlişkiler Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/ua/Pages/Default.aspx"
+      },
+      {
+        "title": "AR-GE Profesyonelliği Koordinatörlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/arge/Pages/Default.aspx"
+      }
+    ]
+  },
+  {
+    "title": "İdari Birimler",
+    "items": [
+      {
+        "title": "Genel Sekreterlik",
+        "url": "https://www.munzur.edu.tr/birimler/idari/sekreter/Pages/Default.aspx"
+      },
+      {
+        "title": "Döner Sermaye İşletme Müdürlüğü",
+        "url": "https://www.munzur.edu.tr/birimler/idari/doner/Pages/Default.aspx"
+      },
+      {
+        "title": "Hukuk Müşavirliği",
+        "url": "https://www.munzur.edu.tr/birimler/idari/hukuk/Pages/Default.aspx"
+      },
+      {
+        "title": "İç Denetim Birimi",
+        "url": "https://www.munzur.edu.tr/birimler/idari/icdenetim/Pages/Default.aspx"
       }
     ]
   }
