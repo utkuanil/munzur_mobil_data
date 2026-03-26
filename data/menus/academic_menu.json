@@ -3,9 +3,36 @@
     "title": "Enstitü",
     "items": [
       {
-        "title": "Lisansüstü Eğitim Enstitüsü",
-        "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/Pages/Default.aspx"
-      },
+      "title": "Lisansüstü Eğitim Enstitüsü",
+      "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/Pages/Default.aspx",
+      "children": [
+        { "title": "Avlama ve İşleme Teknolojisi Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/avlama/Pages/Default.aspx" },
+        { "title": "Beden Eğitimi ve Spor Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/bes/Pages/Default.aspx" },
+        { "title": "Bilgisayar Mühendisliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/bilgisayar/Pages/Default.aspx" },
+        { "title": "Biyoloji Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/biyoloji/Pages/Default.aspx" },
+        { "title": "Biyoteknoloji Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/biyoteknoloji/Pages/Default.aspx" },
+        { "title": "Coğrafya Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/cografya/Pages/Default.aspx" },
+        { "title": "Çevre Mühendisliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/cevre/Pages/Default.aspx" },
+        { "title": "Gıda Mühendisliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/gida/Pages/Default.aspx" },
+        { "title": "Halk Sağlığı Hemşireliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/halksaghem/Pages/Default.aspx" },
+        { "title": "Hesaplamalı Bilimler ve Mühendislik Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/hesaplamali/Pages/Default.aspx" },
+        { "title": "İnşaat Mühendisliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/insaat/Pages/Default.aspx" },
+        { "title": "İş Sağlığı ve Güvenliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/isg/Pages/Default.aspx" },
+        { "title": "İşletme Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/isletme/Pages/Default.aspx" },
+        { "title": "Kimyasal Teknolojiler Anabilim Dalı (YL-DR)", "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/kimyasal/Pages/Default.aspx" },
+        { "title": "Kültür ve Sanat Yönetimi Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/kultursanat/Pages/Default.aspx" },
+        { "title": "Makine Mühendisliği Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/makine/Pages/Default.aspx" },
+        { "title": "Mühendislik Yönetimi Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/muhyon/Pages/Default.aspx" },
+        { "title": "Siyaset Bilimi ve Kamu Yönetimi Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/sbkamu/Pages/Default.aspx" },
+        { "title": "Siyaset Bilimi ve Uluslararası İlişkiler Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/sbui/Pages/Default.aspx" },
+        { "title": "Sosyoloji Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/sosyoloji/Pages/Default.aspx" },
+        { "title": "Stratejik Hammaddeler ve İleri Teknoloji Uygulamaları Anabilim Dalı (YL-DR)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/stratejik/Pages/Default.aspx" },
+        { "title": "Su Ürünleri Anabilim Dalı (YL-DR)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/su/Pages/Default.aspx" },
+        { "title": "Tarih Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/tarih/Pages/Default.aspx" },
+        { "title": "Türk Dili ve Edebiyatı Anabilim Dalı (YL)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/turkdili/Pages/Default.aspx" },
+        { "title": "Uluslararası İşletmecilik ve Finansal Yönetim (DR)", "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/abd/uisletmecilik/Pages/Default.aspx" }
+      ]
+    },
       {
         "title": "Stratejik Hammaddeler ve İleri Teknoloji Uygulamaları İhtisaslaşma Koordinatörlüğü",
         "url": "https://www.munzur.edu.tr/birimler/idari/shitu/Pages/shitu.aspx"
