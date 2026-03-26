@@ -4,11 +4,11 @@
     "items": [
       {
         "title": "Lisansüstü Eğitim Enstitüsü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/enstituler/lisansustu/Pages/Default.aspx"
       },
       {
         "title": "Stratejik Hammaddeler ve İleri Teknoloji Uygulamaları İhtisaslaşma Koordinatörlüğü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/shitu/Pages/shitu.aspx"
       }
     ]
   },
@@ -19,16 +19,36 @@
         "title": "Edebiyat Fakültesi",
         "children": [
           {
+            "title": "Türk Dili Ve Edebiyatı",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/turk/Pages/Default.aspx"
+          },
+          {
+            "title": "Batı Dilleri Ve Edebiyatları",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/bati/Pages/Default.aspx"
+          },
+          {
+            "title": "Doğu Dilleri Ve Edebiyatları",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/dogu/Pages/Default.aspx"
+          },
+          {
+            "title": "Felsefe",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/felsefe/Pages/Default.aspx"
+          },
+          {
             "title": "Sosyoloji",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/sosyoloji/Pages/Default.aspx"
           },
           {
             "title": "Tarih",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/tarih/Pages/Default.aspx"
           },
           {
-            "title": "Türk Dili ve Edebiyatı",
-            "url": "https://munzur.edu.tr"
+            "title": "Coğrafya",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/cografya/Pages/Default.aspx"
+          },
+          {
+            "title": "Psikoloji",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/edebiyat/bolumler/psikoloji/Pages/Default.aspx"
           }
         ]
       },
@@ -37,11 +57,55 @@
         "children": [
           {
             "title": "Gastronomi ve Mutfak Sanatları",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/gastronomi/Pages/Default.aspx"
           },
           {
-            "title": "İç Mimarlık",
-            "url": "https://munzur.edu.tr"
+            "title": "Mimarlık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/mimarlik/Pages/Default.aspx"
+          },
+          {
+            "title": "Müzik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/muzik/Pages/Default.aspx"
+          },
+          {
+            "title": "Resim",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/resim/Pages/Default.aspx"
+          },
+          {
+            "title": "İç Mimarlık Tasarımı",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/icmimarlik/Pages/Default.aspx"
+          },
+          {
+            "title": "Endüstri Ürünleri Tasarım",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/Pages/bolumler.aspx"
+          },
+          {
+            "title": "Fotoğraf",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/fotograf/Pages/Default.aspx"
+          },
+          {
+            "title": "Grafik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/grafik/Pages/Default.aspx"
+          },
+          {
+            "title": "Moda ve Tekstil Tasarımı",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/moda/Pages/Default.aspx"
+          },
+          {
+            "title": "Peyzaj Mimarlık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/Pages/bolumler.aspx"
+          },
+          {
+            "title": "Sahne Sanatları",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/sahne/Pages/Default.aspx"
+          },
+          {
+            "title": "Şehir ve Bölge Planlama",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/Pages/bolumler.aspx"
+          },
+          {
+            "title": "Temel Sanat Bilimleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/gsf/bolumler/temel/Pages/Default.aspx"
           }
         ]
       },
@@ -49,16 +113,20 @@
         "title": "İktisadi ve İdari Bilimler Fakültesi",
         "children": [
           {
-            "title": "İktisat",
-            "url": "https://munzur.edu.tr"
+            "title": "Sağlık Yönetimi",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iibf/bolumler/sby/Pages/Default.aspx"
           },
           {
-            "title": "İşletme",
-            "url": "https://munzur.edu.tr"
+            "title": "Uluslar Arası Ticaret ve İşletmecilik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iibf/bolumler/ulistic/Pages/Default.aspx"
+          },
+          {
+            "title": "Finans ve Bankacılık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iibf/bolumler/bvf/Pages/Default.aspx"
           },
           {
             "title": "Siyaset Bilimi ve Kamu Yönetimi",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iibf/bolumler/siyaset/Pages/Default.aspx"
           }
         ]
       },
@@ -67,15 +135,15 @@
         "children": [
           {
             "title": "Gazetecilik",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iletisim/bolumler/gazetecilik/Pages/Default.aspx"
           },
           {
             "title": "Halkla İlişkiler ve Tanıtım",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iletisim/bolumler/halkla/Pages/Default.aspx"
           },
           {
             "title": "Radyo, Televizyon ve Sinema",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/iletisim/bolumler/radyo/Pages/Default.aspx"
           }
         ]
       },
@@ -88,11 +156,19 @@
           },
           {
             "title": "İnşaat Mühendisliği",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/muhendislik/bolumler/insaat/Pages/Default.aspx"
           },
           {
-            "title": "Makine Mühendisliği",
-            "url": "https://munzur.edu.tr"
+            "title": "Elektrik Elektronik Mühendisliği",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/muhendislik/bolumler/elektrik/Pages/Default.aspx"
+          },
+          {
+            "title": "Endüstri Mühendisliği",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/muhendislik/bolumler/end%C3%BCstr/Pages/Default.aspx"
+          },
+          {
+            "title": "Makina Mühendisliği",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/muhendislik/bolumler/makine/Pages/Default.aspx"
           }
         ]
       },
@@ -101,15 +177,31 @@
         "children": [
           {
             "title": "Çocuk Gelişimi",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/cocuk/Pages/Default.aspx"
           },
           {
             "title": "Hemşirelik",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/hemsirelik/Pages/Default.aspx"
+          },
+          {
+            "title": "Ebelik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/ebelik/Pages/Default.aspx"
+          },
+          {
+            "title": "Beslenme ve Diyetetik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/BESLENME/Pages/Default.aspx"
+          },
+          {
+            "title": "Acil Yardım ve Afet Yönetimi",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/acilafet/Pages/Default.aspx"
+          },
+          {
+            "title": "Fizyoterapi ve Rehabilitasyon",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/fizik/Pages/Default.aspx"
           },
           {
             "title": "Sosyal Hizmet",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/saglik/bolumler/sosyalhizmet/Pages/Default.aspx"
           }
         ]
       },
@@ -118,15 +210,19 @@
         "children": [
           {
             "title": "Antrenörlük Eğitimi",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/spor_bilimleri/bolumler/antrenorluk/Pages/Default.aspx"
           },
           {
-            "title": "Beden Eğitimi ve Spor Öğretmenliği",
-            "url": "https://munzur.edu.tr"
+            "title": "Beden Eğitimi ve Spor",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/spor_bilimleri/bolumler/beden_egitimi/Pages/Default.aspx"
+          },
+          {
+            "title": "Rekreasyon",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/spor_bilimleri/bolumler/rekreasyon/Pages/Default.aspx"
           },
           {
             "title": "Spor Yöneticiliği",
-            "url": "https://munzur.edu.tr"
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/spor_bilimleri/bolumler/yoneticilik/Pages/Default.aspx"
           }
         ]
       },
@@ -134,8 +230,16 @@
         "title": "Su Ürünleri Fakültesi",
         "children": [
           {
-            "title": "Su Ürünleri Mühendisliği",
-            "url": "https://munzur.edu.tr"
+            "title": "Temel Bilimler",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/su/bolumler/temel/Pages/Default.aspx"
+          },
+          {
+            "title": "Avlama ve İşleme Teknolojisi",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/su/bolumler/avlama/Pages/Default.aspx"
+          },
+          {
+            "title": "Su Ürünleri Yetiştiriciliği",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/su/bolumler/yetistiricilik/Pages/Default.aspx"
           }
         ]
       }
@@ -148,28 +252,88 @@
         "title": "Tunceli Meslek Yüksekokulu",
         "children": [
           {
-            "title": "Bilgisayar Programcılığı",
-            "url": "https://munzur.edu.tr"
+            "title": "Hukuk",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/adalet/Pages/Default.aspx"
           },
           {
-            "title": "Elektrik",
-            "url": "https://munzur.edu.tr"
+            "title": "Otel, Lokanta ve İkram Hizmetleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/ascilik/Pages/Default.aspx"
           },
           {
-            "title": "İnşaat Teknolojisi",
-            "url": "https://munzur.edu.tr"
+            "title": "Bilgisayar Teknolojileri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/bilgisayarTekno/Pages/Default.aspx"
           },
           {
-            "title": "İşletme Yönetimi",
-            "url": "https://munzur.edu.tr"
+            "title": "Büro Hizmetleri ve Sekreterlik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/buroHiz/Pages/Default.aspx"
           },
           {
-            "title": "Makine",
-            "url": "https://munzur.edu.tr"
+            "title": "Çocuk Bakımı ve Gençlik Hizmetleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/cocukBak%C4%B1m%C4%B1/Pages/Default.aspx"
           },
           {
-            "title": "Muhasebe ve Vergi Uygulamaları",
-            "url": "https://munzur.edu.tr"
+            "title": "Elektrik ve Enerji",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/enerji/Pages/Default.aspx"
+          },
+          {
+            "title": "Sağlık Bakım Hizmetleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/evdebkm/Pages/Default.aspx"
+          },
+          {
+            "title": "Gıda İşleme",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/g%C4%B1da%C4%B0sleme/Pages/Default.aspx"
+          },
+          {
+            "title": "Mimarlık ve Şehir Planlama",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/sehirPlanlama/Pages/Default.aspx"
+          },
+          {
+            "title": "İnşaat",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/insaatBolum/Pages/Default.aspx"
+          },
+          {
+            "title": "Yönetim ve Organizasyon",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/yyonetimler/Pages/Default.aspx"
+          },
+          {
+            "title": "Kimya ve Kimyasal İşleme Teknolojileri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/kimya/Pages/Default.aspx"
+          },
+          {
+            "title": "Finans, Bankacılık ve Sigortacılık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/finans/Pages/Default.aspx"
+          },
+          {
+            "title": "Makine ve Metal Teknolojileri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/makine/Pages/Default.aspx"
+          },
+          {
+            "title": "Tasarım",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/tasar%C4%B1m/Pages/Default.aspx"
+          },
+          {
+            "title": "Muhasebe ve Vergi",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/muhasebeVergi/Pages/Default.aspx"
+          },
+          {
+            "title": "Bitkisel ve Hayvansal Üretim",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/bitkisel/Pages/Default.aspx"
+          },
+          {
+            "title": "Saç ve Güzellik Hizmetleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/sacGuzellik/Pages/Default.aspx"
+          },
+          {
+            "title": "Sosyal Hizmet ve Danışmanlık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/sosyalhizmetler/Pages/Default.aspx"
+          },
+          {
+            "title": "Tıbbi Hizmetler ve Teknikler",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/tibbi/Pages/Default.aspx"
+          },
+          {
+            "title": "Yabancı Diller ve Kültürler",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/tmyo/bolumler/yabanc%C4%B1Kultur/Pages/Default.aspx"
           }
         ]
       },
@@ -177,12 +341,28 @@
         "title": "Çemişgezek Meslek Yüksekokulu",
         "children": [
           {
-            "title": "Bankacılık ve Sigortacılık",
-            "url": "https://munzur.edu.tr"
+            "title": "Bilgisayar Teknolojileri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/cmyo/bolumler/bilgisayarTekno/Pages/Default.aspx"
           },
           {
-            "title": "Büro Yönetimi ve Yönetici Asistanlığı",
-            "url": "https://munzur.edu.tr"
+            "title": "Finans Bankacılık ve Sigortacılık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/cmyo/bolumler/sigortac%C4%B1l%C4%B1k/Pages/Default.aspx"
+          },
+          {
+            "title": "Büro Hizmetleri ve Sekreterlik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/cmyo/bolumler/buro/Pages/Default.aspx"
+          },
+          {
+            "title": "Çocuk Bakımı ve Gençlik Hizmetleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/cmyo/bolumler/cocuk/Pages/Default.aspx"
+          },
+          {
+            "title": "İnşaat",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/cmyo/bolumler/%C4%B0nsaatTekno/Pages/Default.aspx"
+          },
+          {
+            "title": "Mülkiyet Koruma ve Güvenlik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/cmyo/bolumler/guvenlik/Pages/Default.aspx"
           }
         ]
       },
@@ -190,20 +370,36 @@
         "title": "Pertek Sakine Genç Meslek Yüksekokulu",
         "children": [
           {
-            "title": "Aşçılık",
-            "url": "https://munzur.edu.tr"
+            "title": "Mimarlık ve Şehir Planlama",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/mimarl%C4%B1k/Pages/Default.aspx"
           },
           {
-            "title": "Çocuk Gelişimi",
-            "url": "https://munzur.edu.tr"
+            "title": "Veterinerlik",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/lvsaglik/Pages/Default.aspx"
           },
           {
-            "title": "Sosyal Hizmetler",
-            "url": "https://munzur.edu.tr"
+            "title": "Otel, Lokanta ve İkram Hizmetleri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/turizm/Pages/Default.aspx"
           },
           {
-            "title": "Turizm ve Otel İşletmeciliği",
-            "url": "https://munzur.edu.tr"
+            "title": "Yabancı Diller ve Kültürler",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/yabanc%C4%B1/Pages/Default.aspx"
+          },
+          {
+            "title": "Finans, Bankacılık ve Sigortacılık",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/finans/Pages/Default.aspx"
+          },
+          {
+            "title": "Yönetim ve Organizasyon",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/yyonetimler/Pages/Default.aspx"
+          },
+          {
+            "title": "Tıbbi Hizmetler ve Teknikler",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/thizmetler/Pages/Default.aspx"
+          },
+          {
+            "title": "Motorlu Araçlar ve Ulaştırma Teknolojileri",
+            "url": "https://www.munzur.edu.tr/birimler/akademik/myo/pertek/bolumler/maut/Pages/Default.aspx"
           }
         ]
       },
@@ -235,35 +431,35 @@
     "items": [
       {
         "title": "Atatürk İlkeleri ve İnkılap Tarihi Bölümü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/ataturk/Pages/Default.aspx"
       },
       {
         "title": "Beden Eğitimi ve Spor Bölümü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/beden/Pages/Default.aspx"
       },
       {
         "title": "Enformatik Bölümü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/enformatik/Pages/Default.aspx"
       },
       {
         "title": "Güzel Sanatlar Bölümü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/guzel/Pages/Default.aspx"
       },
       {
         "title": "Türk Dili Bölümü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/turk/Pages/Default.aspx"
       },
       {
         "title": "Yabancı Diller Bölümü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/yabanci/Pages/Default.aspx"
       },
       {
         "title": "Çeviri ve Redaksiyon Birimi Koordinatörlüğü",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/yabanci/ceviri/Pages/Default.aspx"
       },
       {
         "title": "Afet ve Acil Durum Arama Kurtarma Birimi (MUAK)",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/rbb/muak/Pages/default.aspx"
       }
     ]
   },
@@ -272,35 +468,56 @@
     "items": [
       {
         "title": "MUTTO UYGAR",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/tto/Pages/Default.aspx"
       },
       {
         "title": "Nadir Toprak Elementleri Uygulama ve Araştırma Merkezi",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/munteam/Pages/munteam.aspx"
       },
-      {
-        "title": "Uygulama ve Araştırma Merkezi",
-        "url": "https://munzur.edu.tr"
-      },
+      
       {
         "title": "Uzaktan Eğitim Uygulama ve Araştırma Merkezi",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/idari/uzem/Pages/Default.aspx"
       },
       {
         "title": "Türkçe Öğretimi Uygulama ve Araştırma Merkezi (TÖMER)",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/ar-mer/tomer/Pages/Default.aspx"
       },
       {
         "title": "Alevilik Uyg. ve Arş. Merkezi",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/alevilik/Pages/Default.aspx"
       },
       {
         "title": "İnsani ve Sosyal Sorunlar Uyg. ve Arş. Merkezi",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/insan/Pages/Default.aspx"
       },
       {
         "title": "Deney Hayvanları Uyg. ve Arş. Merkezi",
-        "url": "https://munzur.edu.tr"
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/deney/Pages/Default.aspx"
+      },
+      {
+        "title": "Kadın ve Aile Çalışmaları Uyg. ve Arş. M.",
+        "url": "https://www.munzur.edu.tr/birimler/akademik/ar-mer/kadin/Pages/Default.aspx"
+      },
+      {
+        "title": "Küçükbaş Hayvancılık Eğt. Uyg. ve Arş. M.",
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/kucuk/Pages/Default.aspx"
+      },
+      {
+        "title": "Su Ürünleri Uyg. ve Arş. M.",
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/su/Pages/Default.aspx"
+      },
+      {
+        "title": "Sürekli Eğt. Uyg. ve Arş. M.",
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/tusem/Pages/Default.aspx"
+      },
+      {
+        "title": "Ölçme ve Değerlendirme Uyg. ve Arş. M.",
+        "url": "https://www.munzur.edu.tr/birimler/akademik/armer/olcme/Pages/Default.aspx"
+      },
+      {
+        "title": "Kariyer Planlama Uyg. ve Arş. M.",
+        "url": "https://www.munzur.edu.tr/birimler/akademik/ar-mer/kariyer/Pages/Default.aspx"
       }
     ]
   }
