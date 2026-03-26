@@ -5,8 +5,8 @@
     "department": "Bilgisayar Mühendisliği",
     "courseSchedulePdf": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/muhendislik/bolumler/bilgisayar/Pages/file/DersProgrami.pdf",
     "midtermPdf": "https://www.munzur.edu.tr/birimler/akademik/fakulteler/muhendislik/bolumler/bilgisayar/Pages/file/vizeprogrami.pdf",
-    "finalPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bilgisayar_muh_final.pdf",
-    "makeupPdf": "https://raw.githubusercontent.com/KULLANICI_ADI/REPO/main/data/pdfs/bilgisayar_muh_butunleme.pdf",
+    "finalPdf": "",
+    "makeupPdf": "",
     "updatedAt": "2026-03-23"
   },
   {
